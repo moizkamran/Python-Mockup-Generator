@@ -1,0 +1,15 @@
+1. Make sure you have the required modules installed, PIL and python version 3.6 or above
+2. Download the program file and save it on your local machine.
+3. Create a folder called "graphics" in the same directory where you have saved the program file.
+4. Place the overlay images you want to use in the "graphics" folder, and make sure to rename them to "overlay.png" and "overlay_black.png" for the black overlay.
+5. Note that the overlay images should be 2500px by 2500px only. If the overlay images are of different size, it will mess up the positioning of the mockups.
+6. If you want to use different overlays or positions and scales you can either change the values in the given examples or you can read the values from a CSV file or database
+7. Run the program file by executing the following command on your command prompt or terminal
+8. Copy code
+9. python fileName.py
+10. The program will now execute and add the overlay images to the tshirt images.
+11. The resulting images will be saved as "modified_tshirt1.jpg, modified_tshirt2.jpg and modified_tshirt3.jpg" (in the same directory where the original images were stored)
+12. Please note that, the above guide is a general instruction and may require some modification depending on the specific requirements of your use case.
+13. Also, it is advisable to keep a backup of your original images and test the program on a few images first before running the program on the entire dataset.
+
+MADE BY ABDULMOIZ KAMRAN /// @abdulmoizkamran
