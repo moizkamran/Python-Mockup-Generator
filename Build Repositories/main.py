@@ -20,7 +20,7 @@ tshirt_positions_scale = {
     "mockups/tshirt4.jpg": ((618, 448), (791,791)),
     "mockups/tshirt5.jpg": ((618, 448), (791,791)),
     "mockups/tshirt6.jpg": ((618, 448), (791,791)),
-    "mockups/tshirt7.jpg": ((618, 448), (791,791))
+    "mockups/tshirt7.jpg": ((365, 498), (15,1506))
 }
 
 # Iterate over the t-shirt images
