@@ -5,7 +5,10 @@ overlay_images = {
     "mockups/tshirt1.jpg": "graphic/graphic.png",
     "mockups/tshirt2.jpg": "graphic/graphic.png",
     "mockups/tshirt3.jpg": "graphic/graphic_black.png",
-    "mockups/tshirt4.jpg": "graphic/graphic.png"
+    "mockups/tshirt4.jpg": "graphic/graphic.png",
+    "mockups/tshirt5.jpg": "graphic/graphic_black.png",
+    "mockups/tshirt6.jpg": "graphic/graphic.png",
+    "mockups/tshirt7.jpg": "graphic/graphic.png"
 }
 
 
@@ -14,7 +17,10 @@ tshirt_positions_scale = {
     "mockups/tshirt1.jpg": ((781, 372), (490,490)),
     "mockups/tshirt2.jpg": ((2535, 1004), (1500,1500)),
     "mockups/tshirt3.jpg": ((1680, 1116), (580,580)),
-    "mockups/tshirt4.jpg": ((618, 448), (791,791))
+    "mockups/tshirt4.jpg": ((618, 448), (791,791)),
+    "mockups/tshirt5.jpg": ((618, 448), (791,791)),
+    "mockups/tshirt6.jpg": ((618, 448), (791,791)),
+    "mockups/tshirt7.jpg": ((618, 448), (791,791))
 }
 
 # Iterate over the t-shirt images
